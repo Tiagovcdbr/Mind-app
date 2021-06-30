@@ -39,7 +39,7 @@ rodar o comando git checkout main retorna para a branch principal que no caso é
 rodar o comando git checkout - retorna uma branch anterior.
 ```
 =========================================================================================
-==========================================================================================
+
 ```Aplicação gerada com o comando:
 
 .......
